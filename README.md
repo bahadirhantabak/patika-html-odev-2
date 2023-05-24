@@ -1,2 +1,2 @@
-# pratik-html-odev-2
-Pratik Html 2. Ödev
+# patika-html-odev-2
+Patika Html 2. Ödev
